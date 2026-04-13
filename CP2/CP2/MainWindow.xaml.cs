@@ -20,7 +20,7 @@ namespace CP2
         /// <summary>
         /// Variável para conexão com banco de dados
         /// </summary>
-        string conexao = "Server=localhost;Database=Escola;Uid=root;Pwd=fiap1234;";
+        string conexao = "Server=localhost;Database=Escola;Uid=root;Pwd=fiap;";
 
         public MainWindow()
         {
